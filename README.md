@@ -73,4 +73,4 @@ The mod performs a small target lookup during gameplay and has negligible perfor
 
 ## Acknowledgement
 
-Credits for deltanedas for making WAISA.
+Credits for [deltanedas](https://github.com/deltanedas) for making [WAISA](https://github.com/deltanedas/waisa).
