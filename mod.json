@@ -1,0 +1,12 @@
+{
+	"name": "waipa",
+	"displayName": "WAIPA",
+	"author": "[royal]Adham084[]",
+	"subtitle": "What Am I Pointing At?",
+	"description": "\"What Am I Pointing At\" shows info on enemy units and buildings pointed at.\nCredits for deltanedas for making WAISA.",
+	"version": "1.0",
+	"dependencies": [],
+	"hidden": true,
+	"minGameVersion": 136,
+	repo: "Adham084/Mindustry-WAIPA"
+}
